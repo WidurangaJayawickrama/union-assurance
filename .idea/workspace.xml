@@ -19,33 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15d78e54-acfd-4fb5-beaa-f7dbb3bbf1d1" name="Default Changelist" comment="add customer database migration file">
-      <change afterPath="$PROJECT_DIR$/app/Events/CustomerEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/CustomerDocumentsController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/CustomerDocumentsRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/CustomerRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Listeners/CustomerListener.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Mail/CustomerMail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/customer-doc/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/customer-doc/partials/form.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/customer/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/customer/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/customer/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/customer/partials/form.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/customer/show.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/emails/customer_document.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/flash-message.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/union-assurance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/union-assurance.iml" afterDir="false" />
+    <list default="true" id="15d78e54-acfd-4fb5-beaa-f7dbb3bbf1d1" name="Default Changelist" comment="add customer module">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Customers.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Customers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CustomersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CustomersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598776689481</updated>
-      <workItem from="1598776694479" duration="3955000" />
+      <workItem from="1598776694479" duration="5191000" />
     </task>
     <task id="LOCAL-00001" summary="add customer database migration file">
       <created>1598778500252</created>
@@ -208,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598778500253</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add customer module">
+      <created>1598793909897</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598793909897</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,12 +210,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add customer database migration file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add customer database migration file" />
+    <MESSAGE value="add customer module" />
+    <option name="LAST_COMMIT_MESSAGE" value="add customer module" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1598778566957">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1598793989092">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598778566957" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598793989092" />
   </component>
 </project>
